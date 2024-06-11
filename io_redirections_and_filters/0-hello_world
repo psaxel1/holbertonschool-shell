@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'HEllo, World' > test | cat test
+echo 'Hello, World' > test | cat test
